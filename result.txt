@@ -1,0 +1,47 @@
+Student 1 Average:
+48.0 
+
+Student 2 Average:
+54.0 
+
+Student 3 Average:
+54.0 
+
+Student 4 Average:
+34.0 
+
+Student 5 Average:
+40.0 
+
+Student 6 Average:
+36.0 
+
+Student 7 Average:
+34.0 
+
+Student 8 Average:
+44.0 
+
+Student 9 Average:
+56.0 
+
+Student 10 Average:
+52.0 
+
+Student 9 has the highest average
+
+Test1 Average:
+34.0 
+
+Test2 Average:
+40.0 
+
+Test3 Average:
+52.0 
+
+Test4 Average:
+46.0 
+
+Test5 Average:
+54.0 
+
